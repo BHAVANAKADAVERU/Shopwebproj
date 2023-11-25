@@ -1,0 +1,27 @@
+/* Mobile Styles (Default) */
+body {
+    font-size: 16px;
+  }
+  
+  /* Tablet Styles */
+  @media screen and (min-width: 600px) {
+    body {
+      font-size: 18px;
+    }
+  }
+  
+  /* Small Desktop Styles */
+  @media screen and (min-width: 768px) {
+    /* Add styles for larger screens */
+  }
+  
+  /* Medium Desktop Styles */
+  @media screen and (min-width: 992px) {
+    /* Add styles for larger screens */
+  }
+  
+  /* Large Desktop Styles */
+  @media screen and (min-width: 1200px) {
+    /* Add styles for larger screens */
+  }
+  
